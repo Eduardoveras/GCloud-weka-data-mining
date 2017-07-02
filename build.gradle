@@ -1,0 +1,30 @@
+group 'com.study.vm'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile group: 'com.google.cloud', name: 'google-cloud-vision', version: '0.17.2-beta'
+
+
+}
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': 'GVisionQuickstart.java'
+    }
+
+    from {
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+    with jar
+}
