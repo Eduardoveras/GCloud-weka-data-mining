@@ -1,0 +1,29 @@
+@relation butterfly_vs_owl
+@attribute filename string
+@attribute class {A,B,C,D,E}
+@data
+arial_A.png, A
+cali_A.png, A
+sans_A.png, A
+times_A.png, A
+verd_A.png, A
+arial_B.png, B
+cali_B.png, B
+sans_B.png, B
+times_B.png, B
+verd_B.png, B
+arial_C.png, C
+cali_C.png, C
+sans_C.png, C
+times_C.png, C
+verd_C.png, C
+arial_D.png, D
+cali_D.png, D
+sans_D.png, D
+times_D.png, D
+verd_D.png, D
+arial_E.png, E
+cali_E.png, E
+sans_E.png, E
+times_E.png, E
+verd_E.png, E
