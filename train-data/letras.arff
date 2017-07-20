@@ -2,133 +2,731 @@
 @attribute filename string
 @attribute class {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}
 @data
-arial_A.png, A
-cali_A.png, A
-sans_A.png, A
-times_A.png, A
-verd_A.png, A
-arial_B.png, B
-cali_B.png, B
-sans_B.png, B
-times_B.png, B
-verd_B.png, B
-arial_C.png, C
-cali_C.png, C
-sans_C.png, C
-times_C.png, C
-verd_C.png, C
-arial_D.png, D
-cali_D.png, D
-sans_D.png, D
-times_D.png, D
-verd_D.png, D
-arial_E.png, E
-cali_E.png, E
-sans_E.png, E
-times_E.png, E
-verd_E.png, E
-arial_F.png, F
-cali_F.png, F
-sans_F.png, F
-times_F.png, F
-verd_F.png, F
-arial_G.png, G
-cali_G.png, G
-sans_G.png, G
-times_G.png, G
-verd_G.png, G
-arial_H.png, H
-cali_H.png, H
-sans_H.png, H
-times_H.png, H
-verd_H.png, H
-arial_I.png, I
-cali_I.png, I
-sans_I.png, I
-times_I.png, I
-verd_I.png, I
-arial_J.png, J
-cali_J.png, J
-sans_J.png, J
-times_J.png, J
-verd_J.png, J
-arial_K.png, K
-cali_K.png, K
-sans_K.png, K
-times_K.png, K
-verd_K.png, K
-arial_L.png, L
-cali_L.png, L
-sans_L.png, L
-times_L.png, L
-verd_L.png, L
-arial_M.png, M
-cali_M.png, M
-sans_M.png, M
-times_M.png, M
-verd_M.png, M
-arial_N.png, N
-cali_N.png, N
-sans_N.png, N
-times_N.png, N
-verd_N.png, N
-arial_O.png, O
-cali_O.png, O
-sans_O.png, O
-times_O.png, O
-verd_O.png, O
-arial_P.png, P
-cali_P.png, P
-sans_P.png, P
-times_P.png, P
-verd_P.png, P
-arial_Q.png, Q
-cali_Q.png, Q
-sans_Q.png, Q
-times_Q.png, Q
-verd_Q.png, Q
-arial_R.png, R
-cali_R.png, R
-sans_R.png, R
-times_R.png, R
-verd_R.png, R
-arial_S.png, S
-cali_S.png, S
-sans_S.png, S
-times_S.png, S
-verd_S.png, S
-arial_T.png, T
-cali_T.png, T
-sans_T.png, T
-times_T.png, T
-verd_T.png, T
-arial_U.png, U
-cali_U.png, U
-sans_U.png, U
-times_U.png, U
-verd_U.png, U
-arial_V.png, V
-cali_V.png, V
-sans_V.png, V
-times_V.png, V
-verd_V.png, V
-arial_W.png, W
-cali_W.png, W
-sans_W.png, W
-times_W.png, W
-verd_W.png, W
-arial_X.png, X
-cali_X.png, X
-sans_X.png, X
-times_X.png, X
-verd_X.png, X
-arial_Y.png, Y
-cali_Y.png, Y
-sans_Y.png, Y
-times_Y.png, Y
-verd_Y.png, Y
-arial_Z.png, Z
-cali_Z.png, Z
-sans_Z.png, Z
-times_Z.png, Z
-verd_Z.png, Z
+img022-00012.png,L
+img022-00023.png,L
+img024-00006.png,N
+img017-00008.png,G
+img014-00007.png,D
+img020-00025.png,J
+img018-00001.png,H
+img023-00001.png,M
+img035-00016.png,Y
+img024-00011.png,N
+img025-00021.png,O
+img015-00022.png,E
+img011-00007.png,A
+img012-00012.png,B
+img021-00009.png,K
+img017-00003.png,G
+img025-00020.png,O
+img031-00026.png,U
+img021-00022.png,K
+img034-00019.png,X
+img030-00015.png,T
+img028-00010.png,R
+img022-00013.png,L
+img027-00012.png,Q
+img036-00008.png,Z
+img017-00021.png,G
+img012-00011.png,B
+img012-00004.png,B
+img035-00001.png,Y
+img018-00010.png,H
+img019-00020.png,I
+img016-00012.png,F
+img020-00010.png,J
+img027-00026.png,Q
+img018-00021.png,H
+img028-00008.png,R
+img019-00011.png,I
+img028-00011.png,R
+img034-00004.png,X
+img017-00010.png,G
+img027-00018.png,Q
+img035-00014.png,Y
+img034-00006.png,X
+img020-00006.png,J
+img034-00025.png,X
+img019-00014.png,I
+img020-00013.png,J
+img016-00023.png,F
+img030-00003.png,T
+img026-00001.png,P
+img012-00008.png,B
+img017-00017.png,G
+img032-00019.png,V
+img023-00024.png,M
+img019-00018.png,I
+img031-00004.png,U
+img011-00017.png,A
+img011-00014.png,A
+img013-00020.png,C
+img030-00011.png,T
+img017-00004.png,G
+img022-00026.png,L
+img027-00027.png,Q
+img016-00009.png,F
+img031-00009.png,U
+img026-00023.png,P
+img032-00024.png,V
+img031-00001.png,U
+img021-00018.png,K
+img036-00022.png,Z
+img011-00003.png,A
+img031-00020.png,U
+img036-00012.png,Z
+img033-00013.png,W
+img019-00012.png,I
+img018-00008.png,H
+img015-00027.png,E
+img011-00001.png,A
+img025-00007.png,O
+img015-00007.png,E
+img036-00018.png,Z
+img034-00003.png,X
+img032-00007.png,V
+img035-00023.png,Y
+img028-00028.png,R
+img011-00008.png,A
+img020-00004.png,J
+img023-00025.png,M
+img020-00002.png,J
+img034-00026.png,X
+img020-00027.png,J
+img032-00006.png,V
+img021-00025.png,K
+img033-00024.png,W
+img033-00012.png,W
+img031-00010.png,U
+img028-00003.png,R
+img017-00001.png,G
+img034-00010.png,X
+img019-00004.png,I
+img019-00027.png,I
+img030-00010.png,T
+img023-00011.png,M
+img018-00007.png,H
+img011-00020.png,A
+img027-00019.png,Q
+img022-00016.png,L
+img024-00008.png,N
+img030-00023.png,T
+img021-00010.png,K
+img029-00010.png,S
+img028-00001.png,R
+img036-00011.png,Z
+img032-00004.png,V
+img036-00016.png,Z
+img021-00023.png,K
+img034-00011.png,X
+img026-00026.png,P
+img022-00028.png,L
+img015-00020.png,E
+img021-00003.png,K
+img022-00009.png,L
+img031-00011.png,U
+img032-00013.png,V
+img024-00024.png,N
+img028-00005.png,R
+img022-00024.png,L
+img026-00006.png,P
+img035-00019.png,Y
+img014-00022.png,D
+img019-00023.png,I
+img013-00010.png,C
+img030-00028.png,T
+img020-00015.png,J
+img018-00017.png,H
+img017-00028.png,G
+img011-00024.png,A
+img015-00010.png,E
+img022-00002.png,L
+img025-00005.png,O
+img027-00001.png,Q
+img033-00006.png,W
+img014-00026.png,D
+img020-00014.png,J
+img027-00022.png,Q
+img020-00012.png,J
+img029-00005.png,S
+img029-00025.png,S
+img031-00016.png,U
+img016-00016.png,F
+img019-00016.png,I
+img033-00017.png,W
+img018-00023.png,H
+img015-00019.png,E
+img033-00025.png,W
+img012-00022.png,B
+img027-00025.png,Q
+img016-00011.png,F
+img023-00009.png,M
+img018-00015.png,H
+img013-00003.png,C
+img022-00006.png,L
+img017-00022.png,G
+img017-00019.png,G
+img017-00018.png,G
+img026-00014.png,P
+img020-00023.png,J
+img026-00025.png,P
+img019-00015.png,I
+img025-00026.png,O
+img022-00020.png,L
+img015-00005.png,E
+img016-00010.png,F
+img021-00011.png,K
+img014-00003.png,D
+img018-00003.png,H
+img022-00001.png,L
+img036-00014.png,Z
+img022-00025.png,L
+img023-00027.png,M
+img021-00001.png,K
+img028-00021.png,R
+img020-00019.png,J
+img012-00018.png,B
+img033-00027.png,W
+img021-00026.png,K
+img023-00017.png,M
+img014-00016.png,D
+img032-00021.png,V
+img014-00014.png,D
+img029-00028.png,S
+img013-00024.png,C
+img035-00013.png,Y
+img032-00026.png,V
+img015-00002.png,E
+img034-00007.png,X
+img012-00017.png,B
+img015-00023.png,E
+img034-00015.png,X
+img015-00012.png,E
+img033-00023.png,W
+img023-00012.png,M
+img017-00026.png,G
+img026-00017.png,P
+img032-00009.png,V
+img036-00019.png,Z
+img031-00015.png,U
+img011-00026.png,A
+img024-00001.png,N
+img020-00022.png,J
+img036-00006.png,Z
+img013-00004.png,C
+img021-00014.png,K
+img036-00010.png,Z
+img014-00012.png,D
+img018-00004.png,H
+img036-00026.png,Z
+img036-00017.png,Z
+img026-00018.png,P
+img013-00027.png,C
+img028-00024.png,R
+img024-00025.png,N
+img035-00009.png,Y
+img025-00001.png,O
+img036-00024.png,Z
+img014-00027.png,D
+img030-00027.png,T
+img024-00009.png,N
+img028-00006.png,R
+img030-00014.png,T
+img030-00004.png,T
+img022-00007.png,L
+img029-00015.png,S
+img026-00003.png,P
+img034-00002.png,X
+img013-00009.png,C
+img015-00016.png,E
+img025-00016.png,O
+img014-00013.png,D
+img017-00009.png,G
+img022-00011.png,L
+img029-00019.png,S
+img036-00013.png,Z
+img034-00017.png,X
+img021-00028.png,K
+img027-00020.png,Q
+img015-00003.png,E
+img020-00020.png,J
+img011-00011.png,A
+img032-00023.png,V
+img026-00019.png,P
+img035-00002.png,Y
+img023-00023.png,M
+img023-00014.png,M
+img025-00019.png,O
+img017-00002.png,G
+img018-00022.png,H
+img032-00012.png,V
+img023-00021.png,M
+img022-00008.png,L
+img034-00018.png,X
+img030-00018.png,T
+img023-00020.png,M
+img027-00023.png,Q
+img015-00021.png,E
+img026-00005.png,P
+img033-00018.png,W
+img025-00009.png,O
+img030-00013.png,T
+img015-00009.png,E
+img028-00023.png,R
+img030-00026.png,T
+img016-00025.png,F
+img020-00028.png,J
+img034-00016.png,X
+img031-00013.png,U
+img036-00027.png,Z
+img022-00017.png,L
+img013-00019.png,C
+img012-00002.png,B
+img014-00020.png,D
+img012-00028.png,B
+img019-00013.png,I
+img028-00027.png,R
+img015-00004.png,E
+img033-00020.png,W
+img026-00013.png,P
+img012-00020.png,B
+img020-00003.png,J
+img026-00009.png,P
+img026-00027.png,P
+img031-00002.png,U
+img024-00027.png,N
+img021-00021.png,K
+img029-00022.png,S
+img018-00026.png,H
+img028-00004.png,R
+img023-00003.png,M
+img021-00006.png,K
+img011-00006.png,A
+img014-00015.png,D
+img035-00021.png,Y
+img032-00003.png,V
+img030-00021.png,T
+img012-00016.png,B
+img013-00028.png,C
+img019-00006.png,I
+img032-00002.png,V
+img016-00021.png,F
+img035-00012.png,Y
+img028-00017.png,R
+img026-00010.png,P
+img022-00021.png,L
+img029-00003.png,S
+img017-00007.png,G
+img013-00005.png,C
+img018-00020.png,H
+img021-00012.png,K
+img016-00002.png,F
+img033-00003.png,W
+img021-00027.png,K
+img027-00009.png,Q
+img025-00002.png,O
+img030-00022.png,T
+img027-00002.png,Q
+img033-00026.png,W
+img017-00014.png,G
+img014-00019.png,D
+img033-00021.png,W
+img022-00015.png,L
+img014-00004.png,D
+img025-00010.png,O
+img036-00028.png,Z
+img034-00023.png,X
+img017-00011.png,G
+img020-00026.png,J
+img014-00010.png,D
+img033-00015.png,W
+img013-00008.png,C
+img011-00002.png,A
+img025-00003.png,O
+img036-00021.png,Z
+img025-00028.png,O
+img016-00027.png,F
+img014-00024.png,D
+img024-00023.png,N
+img025-00017.png,O
+img033-00011.png,W
+img035-00008.png,Y
+img017-00012.png,G
+img030-00012.png,T
+img015-00008.png,E
+img027-00021.png,Q
+img031-00018.png,U
+img024-00002.png,N
+img011-00005.png,A
+img021-00004.png,K
+img011-00021.png,A
+img034-00012.png,X
+img026-00012.png,P
+img016-00004.png,F
+img014-00011.png,D
+img012-00027.png,B
+img026-00002.png,P
+img024-00005.png,N
+img024-00022.png,N
+img032-00020.png,V
+img024-00010.png,N
+img029-00014.png,S
+img028-00012.png,R
+img016-00008.png,F
+img031-00007.png,U
+img032-00027.png,V
+img030-00025.png,T
+img033-00014.png,W
+img032-00005.png,V
+img035-00006.png,Y
+img034-00021.png,X
+img036-00009.png,Z
+img016-00013.png,F
+img024-00012.png,N
+img018-00002.png,H
+img022-00014.png,L
+img024-00014.png,N
+img019-00017.png,I
+img015-00013.png,E
+img029-00002.png,S
+img014-00009.png,D
+img013-00006.png,C
+img031-00005.png,U
+img035-00011.png,Y
+img018-00009.png,H
+img026-00008.png,P
+img036-00005.png,Z
+img032-00008.png,V
+img011-00016.png,A
+img016-00018.png,F
+img020-00018.png,J
+img029-00008.png,S
+img013-00015.png,C
+img012-00019.png,B
+img017-00005.png,G
+img032-00017.png,V
+img015-00025.png,E
+img014-00028.png,D
+img032-00010.png,V
+img012-00014.png,B
+img031-00019.png,U
+img015-00001.png,E
+img029-00009.png,S
+img034-00024.png,X
+img012-00015.png,B
+img032-00028.png,V
+img013-00007.png,C
+img036-00025.png,Z
+img024-00019.png,N
+img026-00016.png,P
+img014-00023.png,D
+img022-00027.png,L
+img025-00011.png,O
+img027-00011.png,Q
+img033-00008.png,W
+img014-00008.png,D
+img022-00004.png,L
+img016-00015.png,F
+img018-00011.png,H
+img013-00017.png,C
+img016-00028.png,F
+img024-00026.png,N
+img013-00025.png,C
+img027-00004.png,Q
+img016-00007.png,F
+img024-00003.png,N
+img035-00004.png,Y
+img015-00006.png,E
+img028-00013.png,R
+img033-00028.png,W
+img023-00015.png,M
+img013-00014.png,C
+img036-00007.png,Z
+img026-00024.png,P
+img019-00001.png,I
+img036-00020.png,Z
+img019-00007.png,I
+img029-00016.png,S
+img018-00006.png,H
+img035-00015.png,Y
+img020-00011.png,J
+img023-00016.png,M
+img031-00022.png,U
+img025-00027.png,O
+img017-00006.png,G
+img017-00023.png,G
+img027-00008.png,Q
+img023-00013.png,M
+img030-00020.png,T
+img014-00018.png,D
+img028-00026.png,R
+img036-00001.png,Z
+img030-00007.png,T
+img032-00014.png,V
+img020-00009.png,J
+img012-00023.png,B
+img035-00024.png,Y
+img015-00011.png,E
+img029-00011.png,S
+img015-00018.png,E
+img016-00019.png,F
+img031-00012.png,U
+img013-00016.png,C
+img023-00002.png,M
+img016-00003.png,F
+img035-00026.png,Y
+img027-00017.png,Q
+img018-00012.png,H
+img024-00017.png,N
+img019-00010.png,I
+img016-00017.png,F
+img033-00019.png,W
+img012-00003.png,B
+img031-00008.png,U
+img017-00020.png,G
+img025-00023.png,O
+img022-00005.png,L
+img034-00014.png,X
+img021-00017.png,K
+img023-00006.png,M
+img017-00016.png,G
+img027-00013.png,Q
+img027-00006.png,Q
+img019-00024.png,I
+img013-00001.png,C
+img031-00006.png,U
+img024-00007.png,N
+img035-00017.png,Y
+img013-00021.png,C
+img028-00015.png,R
+img017-00013.png,G
+img025-00024.png,O
+img025-00006.png,O
+img020-00008.png,J
+img024-00004.png,N
+img030-00005.png,T
+img031-00028.png,U
+img024-00028.png,N
+img013-00012.png,C
+img024-00016.png,N
+img019-00021.png,I
+img016-00020.png,F
+img029-00020.png,S
+img027-00005.png,Q
+img028-00019.png,R
+img029-00021.png,S
+img014-00025.png,D
+img036-00004.png,Z
+img029-00027.png,S
+img030-00002.png,T
+img033-00007.png,W
+img029-00007.png,S
+img028-00016.png,R
+img012-00007.png,B
+img028-00014.png,R
+img016-00026.png,F
+img026-00028.png,P
+img029-00017.png,S
+img016-00022.png,F
+img031-00027.png,U
+img027-00024.png,Q
+img036-00015.png,Z
+img032-00022.png,V
+img021-00005.png,K
+img011-00012.png,A
+img012-00010.png,B
+img021-00016.png,K
+img018-00005.png,H
+img023-00005.png,M
+img031-00017.png,U
+img011-00028.png,A
+img031-00014.png,U
+img028-00007.png,R
+img014-00006.png,D
+img026-00020.png,P
+img030-00001.png,T
+img015-00015.png,E
+img019-00005.png,I
+img014-00005.png,D
+img035-00022.png,Y
+img023-00028.png,M
+img013-00018.png,C
+img026-00021.png,P
+img035-00020.png,Y
+img022-00019.png,L
+img011-00019.png,A
+img013-00023.png,C
+img012-00026.png,B
+img018-00014.png,H
+img020-00007.png,J
+img032-00018.png,V
+img016-00005.png,F
+img020-00005.png,J
+img029-00006.png,S
+img031-00025.png,U
+img033-00010.png,W
+img018-00016.png,H
+img025-00015.png,O
+img027-00014.png,Q
+img013-00026.png,C
+img030-00008.png,T
+img013-00022.png,C
+img011-00027.png,A
+img021-00002.png,K
+img025-00014.png,O
+img022-00022.png,L
+img035-00005.png,Y
+img017-00015.png,G
+img019-00025.png,I
+img031-00003.png,U
+img035-00010.png,Y
+img016-00001.png,F
+img012-00001.png,B
+img018-00018.png,H
+img035-00007.png,Y
+img029-00001.png,S
+img030-00024.png,T
+img028-00025.png,R
+img033-00005.png,W
+img034-00022.png,X
+img035-00027.png,Y
+img034-00005.png,X
+img025-00022.png,O
+img033-00002.png,W
+img023-00004.png,M
+img034-00009.png,X
+img021-00024.png,K
+img013-00011.png,C
+img014-00002.png,D
+img018-00024.png,H
+img016-00014.png,F
+img011-00025.png,A
+img015-00014.png,E
+img034-00020.png,X
+img033-00016.png,W
+img027-00016.png,Q
+img017-00027.png,G
+img035-00028.png,Y
+img032-00011.png,V
+img024-00020.png,N
+img029-00012.png,S
+img011-00004.png,A
+img011-00018.png,A
+img029-00023.png,S
+img023-00007.png,M
+img033-00009.png,W
+img030-00016.png,T
+img012-00006.png,B
+img022-00003.png,L
+img011-00009.png,A
+img019-00026.png,I
+img012-00005.png,B
+img033-00004.png,W
+img026-00004.png,P
+img032-00001.png,V
+img036-00023.png,Z
+img022-00010.png,L
+img035-00003.png,Y
+img023-00022.png,M
+img015-00017.png,E
+img020-00017.png,J
+img022-00018.png,L
+img029-00018.png,S
+img018-00028.png,H
+img025-00025.png,O
+img023-00019.png,M
+img023-00026.png,M
+img023-00018.png,M
+img028-00020.png,R
+img018-00019.png,H
+img014-00017.png,D
+img021-00020.png,K
+img028-00018.png,R
+img015-00026.png,E
+img019-00022.png,I
+img019-00003.png,I
+img020-00001.png,J
+img015-00024.png,E
+img018-00013.png,H
+img024-00018.png,N
+img019-00002.png,I
+img028-00009.png,R
+img031-00021.png,U
+img020-00021.png,J
+img012-00024.png,B
+img027-00003.png,Q
+img034-00013.png,X
+img011-00015.png,A
+img023-00008.png,M
+img021-00008.png,K
+img029-00004.png,S
+img024-00015.png,N
+img032-00015.png,V
+img029-00013.png,S
+img023-00010.png,M
+img011-00022.png,A
+img026-00011.png,P
+img032-00016.png,V
+img026-00022.png,P
+img028-00002.png,R
+img033-00001.png,W
+img021-00007.png,K
+img035-00018.png,Y
+img030-00009.png,T
+img012-00009.png,B
+img011-00010.png,A
+img024-00021.png,N
+img014-00021.png,D
+img025-00004.png,O
+img019-00028.png,I
+img034-00001.png,X
+img034-00008.png,X
+img028-00022.png,R
+img030-00006.png,T
+img031-00023.png,U
+img027-00028.png,Q
+img025-00008.png,O
+img020-00016.png,J
+img026-00015.png,P
+img019-00009.png,I
+img018-00025.png,H
+img011-00013.png,A
+img036-00002.png,Z
+img034-00028.png,X
+img035-00025.png,Y
+img024-00013.png,N
+img020-00024.png,J
+img027-00007.png,Q
+img017-00024.png,G
+img015-00028.png,E
+img014-00001.png,D
+img011-00023.png,A
+img034-00027.png,X
+img033-00022.png,W
+img017-00025.png,G
+img025-00012.png,O
+img036-00003.png,Z
+img013-00013.png,C
+img032-00025.png,V
+img018-00027.png,H
+img021-00019.png,K
+img012-00021.png,B
+img029-00024.png,S
+img030-00019.png,T
+img025-00018.png,O
+img016-00024.png,F
+img016-00006.png,F
+img030-00017.png,T
+img013-00002.png,C
+img021-00013.png,K
+img012-00025.png,B
+img027-00015.png,Q
+img025-00013.png,O
+img027-00010.png,Q
+img021-00015.png,K
+img012-00013.png,B
+img019-00019.png,I
+img029-00026.png,S
+img031-00024.png,U
+img019-00008.png,I
+img026-00007.png,P

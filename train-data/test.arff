@@ -1,12 +1,30 @@
 @relation butterfly_vs_owl
 @attribute filename string
-@attribute class {A,B,C,D,E}
+@attribute class {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}
 @data
-
-test-data/test_A.jpg, A
-test-data/test_arial_B.png, B
-test-data/test_B.jpg, B
-test-data/test_C.jpg, C
-test-data/test_D.png, D
-test-data/test_E.jpg, E
-
+test-data/img011-00201.png, A
+test-data/img012-00201.png, B
+test-data/img013-00201.png, C
+test-data/img014-00201.png, D
+test-data/img015-00201.png, E
+test-data/img016-00201.png, F
+test-data/img017-00201.png, G
+test-data/img018-00201.png, H
+test-data/img019-00201.png, I
+test-data/img020-00201.png, J
+test-data/img021-00201.png, K
+test-data/img022-00201.png, L
+test-data/img023-00201.png, M
+test-data/img024-00201.png, N
+test-data/img025-00201.png, O
+test-data/img026-00201.png, P
+test-data/img027-00201.png, Q
+test-data/img028-00201.png, R
+test-data/img029-00201.png, S
+test-data/img030-00201.png, T
+test-data/img031-00201.png, U
+test-data/img032-00201.png, V
+test-data/img033-00201.png, W
+test-data/img034-00201.png, X
+test-data/img035-00201.png, Y
+test-data/img036-00201.png, Z
