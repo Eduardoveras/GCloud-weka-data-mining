@@ -2,28 +2,32 @@
 @attribute filename string
 @attribute class {A,B,C,D,E}
 @data
-arial_A.png, A
-cali_A.png, A
-sans_A.png, A
-times_A.png, A
-verd_A.png, A
-arial_B.png, B
-cali_B.png, B
-sans_B.png, B
-times_B.png, B
-verd_B.png, B
-arial_C.png, C
-cali_C.png, C
-sans_C.png, C
-times_C.png, C
-verd_C.png, C
-arial_D.png, D
-cali_D.png, D
-sans_D.png, D
-times_D.png, D
-verd_D.png, D
-arial_E.png, E
-cali_E.png, E
-sans_E.png, E
-times_E.png, E
-verd_E.png, E
+
+
+
+test-data/img011-00201.png, A
+test-data/img012-00201.png, B
+test-data/img013-00201.png, C
+test-data/img014-00201.png, D
+test-data/img015-00201.png, E
+test-data/img016-00201.png, F
+test-data/img017-00201.png, G
+test-data/img018-00201.png, H
+test-data/img019-00201.png, I
+test-data/img020-00201.png, J
+test-data/img021-00201.png, K
+test-data/img022-00201.png, L
+test-data/img023-00201.png, M
+test-data/img024-00201.png, N
+test-data/img025-00201.png, O
+test-data/img026-00201.png, P
+test-data/img027-00201.png, Q
+test-data/img028-00201.png, R
+test-data/img029-00201.png, S
+test-data/img030-00201.png, T
+test-data/img031-00201.png, U
+test-data/img032-00201.png, V
+test-data/img033-00201.png, W
+test-data/img034-00201.png, X
+test-data/img035-00201.png, Y
+test-data/img036-00201.png, Z
