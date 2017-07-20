@@ -13,3 +13,5 @@ gradle/wrapper/
 
 \.project
 /bin/
+
+\.settings/
